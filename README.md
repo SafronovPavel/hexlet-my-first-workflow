@@ -1,2 +1,2 @@
 # hexlet-my-first-workflow
-Тест
+https://github.com/SafronovPavel/hexlet-my-first-workflow/actions/workflows/hello-world.yml/badge.svg
